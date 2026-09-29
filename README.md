@@ -15,4 +15,4 @@ The original prompt (English): "generate an svg with a pelican riding a bicycle 
 
 - Everything here was generated in each model's official agent / harness client.
 - The testing process is not rigorous; treat all results as for-fun reference material.
-- Feel free to cite anything in this repo (it was a reply to a previous issue); just credit the source.
+- Feel free to cite anything in this repo; just credit the source.
